@@ -5,7 +5,6 @@ Automation Team Leader | STI-VietNam
 
 ## Giới thiệu bản thân  
 Kỹ sư tự động hóa với gần 4 năm kinh nghiệm phát triển giải pháp công nghiệp.  
-Trưởng nhóm tự động hóa tại STI-VietNam.  
 Yêu thích sáng tạo, đổi mới và chú trọng áp dụng công nghệ vào công việc.
 
 > “Sáng tạo là chìa khóa của sự phát triển. Tôi luôn hướng đến các giải pháp mới để nâng cao hiệu quả và giá trị cho dự án.”
