@@ -12,7 +12,7 @@ Yêu thích sáng tạo, đổi mới và chú trọng áp dụng công nghệ v
 ---
 
 ## Kỹ năng & Công nghệ
-- Lập trình PLC (Siemens, Omron, Mitsubishi…)
+- Lập trình PLC (Siemens, Mitsubishi, Delta…)
 - PC Control & giao tiếp thiết bị công nghiệp
 - Thành thạo: C#, C, C++, Python, JavaScript
 - Kết nối hệ thống, xử lý dữ liệu và tối ưu hóa quy trình sản xuất
