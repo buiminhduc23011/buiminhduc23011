@@ -1,4 +1,4 @@
-# Xin chào! Tôi là Bùi Văn Đức  
+# Bùi Văn Đức  
 Automation Team Leader | STI-VietNam
 
 ---
