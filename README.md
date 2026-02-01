@@ -1,5 +1,9 @@
+<div align="center">
+
 # Bùi Văn Đức  
-Automation Team Leader | STI-VietNam
+**Automation Team Leader | STI-VietNam**
+
+</div>
 
 ---
 
@@ -12,10 +16,10 @@ Yêu thích sáng tạo, đổi mới và chú trọng áp dụng công nghệ v
 ---
 
 ## Kỹ năng & Công nghệ
-- Lập trình PLC (Siemens, Mitsubishi, Delta…)
-- PC Control & giao tiếp thiết bị công nghiệp
-- Thành thạo: C#, C, C++, Python, JavaScript
-- Kết nối hệ thống, xử lý dữ liệu và tối ưu hóa quy trình sản xuất
+- **Lập trình PLC**: Siemens, Mitsubishi, Delta…
+- **PC Control**: Giao tiếp thiết bị công nghiệp
+- **Ngôn ngữ lập trình**: C#, C, C++, Python, JavaScript
+- **Hệ thống**: Kết nối hệ thống, xử lý dữ liệu và tối ưu hóa quy trình sản xuất
 
 ---
 
@@ -26,9 +30,9 @@ Các dự án tự động hóa, phần mềm điều khiển và ý tưởng s�
 ---
 
 ## Kết nối với tôi
-- Số điện thoại: 0963322515  
-- Email: buiminhduc23011@gmail.com  
-- Facebook: [buivanduc.use](https://www.facebook.com/buivanduc.use)  
+- **Số điện thoại**: 0963322515
+- **Email**: [buiminhduc23011@gmail.com](mailto:buiminhduc23011@gmail.com)
+- **Facebook**: [buivanduc.use](https://www.facebook.com/buivanduc.use)
 - Trao đổi công việc trực tiếp qua GitHub
 
 ---
