@@ -75,6 +75,6 @@ Khám phá thêm tại **[Repositories](https://github.com/buiminhduc23011?tab=r
 
 ---
 
-*Luôn sẵn sàng hợp tác trong lĩnh vực tự động hóa và phát triển giải pháp sản xuất thông minh.* 🚀
+*Luôn sẵn sàng hợp tác trong lĩnh vực tự động hóa và phát triển giải pháp sản xuất thông minh.*
 
 </div>
