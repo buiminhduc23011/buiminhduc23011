@@ -18,8 +18,6 @@ Kỹ sư Tự động hóa với **hơn 5 năm kinh nghiệm chuyên sâu trong 
 - **Tích hợp hệ thống:** Triển khai các giải pháp điều hành xe tự hành AGV/AMR, Machine Vision và chuyển đổi số sản xuất (IIoT).
 - **Dự án phát triển:** Nền tảng Gateway công nghiệp **[DBI (Data Bridge Industrial)](https://dbivn.com/)** — giải pháp cầu nối dữ liệu OT/IT miễn phí cho kỹ sư Việt.
 
-*Các dự án điều khiển, phần mềm máy và mã nguồn hệ thống thực tế triển khai cho nhà máy đều được bảo mật trong các **Private Repositories**.*
-
 ---
 
 ### GitHub Activity & Contributions
