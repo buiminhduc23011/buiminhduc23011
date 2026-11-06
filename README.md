@@ -35,7 +35,7 @@ Hệ sinh thái điều phối và mô phỏng đội xe tự hành AGV chuyên 
 Nền tảng Gateway công nghiệp và cầu nối dữ liệu OT/IT: [https://dbivn.com/](https://dbivn.com/)
 - **Giao thức & Kết nối PLC:** Siemens S7 (S7-1200/1500), Mitsubishi (FX/Q Series qua McProtocol), Omron (FINS), Delta, Modbus RTU/TCP, OPC UA.
 - **Kiến trúc hệ thống:**
-  - `DBI.Runtime` & `DBI.Hive`: Core runtime và trung tâm điều phối dữ liệu.
+  - `DBI.Runtime`: Core runtime động cơ xử lý và điều phối dữ liệu.
   - `DBI.Drivers` & `DBI.DataRelay`: Giao tiếp driver đa thiết bị và chuyển tiếp dữ liệu thời gian thực.
   - `DBI.SoftPLC`: Phần mềm điều khiển trực tiếp trên môi trường máy tính công nghiệp (IPC).
   - `DBI.VisionKit`: Tích hợp xử lý ảnh công nghiệp.
