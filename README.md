@@ -23,10 +23,10 @@ Kỹ sư Tự động hóa với **hơn 5 năm kinh nghiệm chuyên sâu trong 
 ### GitHub Activity & Contributions
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=buiminhduc23011&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=buiminhduc23011&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="48%" alt="Top Languages" />
+  <img src="https://github-stats-extended.vercel.app/api?username=buiminhduc23011&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="195" alt="GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=buiminhduc23011&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="195" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=buiminhduc23011&theme=tokyonight&hide_border=true" width="97%" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=buiminhduc23011&theme=tokyonight&hide_border=true" height="195" alt="GitHub Streak" />
 </p>
