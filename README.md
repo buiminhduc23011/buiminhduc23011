@@ -68,13 +68,11 @@ Xem thêm danh sách đầy đủ tại **[Repositories](https://github.com/buim
 
 ### GitHub Stats
 
-<div align="center">
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=buiminhduc23011&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=buiminhduc23011&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="48%" alt="Top Languages" />
+</p>
 
-<img src="https://github-stats-extended.vercel.app/api?username=buiminhduc23011&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-<img src="https://streak-stats.demolab.com?user=buiminhduc23011&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-<br/>
-
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=buiminhduc23011&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=buiminhduc23011&theme=tokyonight&hide_border=true" width="97%" alt="GitHub Streak" />
+</p>
