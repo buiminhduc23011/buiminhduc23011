@@ -12,24 +12,22 @@
 
 ### Giới thiệu
 
-Kỹ sư Tự động hóa và Phần mềm Công nghiệp với hơn 5 năm kinh nghiệm thiết kế, lập trình và triển khai các hệ thống máy tự động hóa, hệ thống điều hành xe tự hành AGV, thị giác máy tính và giải pháp số hóa nhà máy thông minh (IIoT / Công nghiệp 4.0).
+Kỹ sư Tự động hóa và Kiến trúc sư Phần mềm Công nghiệp với hơn 5 năm kinh nghiệm thực chiến trong việc thiết kế, xây dựng và triển khai các hệ thống điều hành xe tự hành AGV, thị giác máy tính, máy tự động hóa và giải pháp chuyển đổi số sản xuất (IIoT / Industry 4.0).
 
-Tác giả và kiến trúc sư hệ thống của hai dự án nền tảng:
-- **ACS (AGV Control System & Fleet Simulation):** Hệ sinh thái phần mềm điều phối, mô phỏng tuyến đường và quản lý đội xe tự hành AGV trong nhà máy thông minh.
-- **DBI (Data Bridge Industrial):** Nền tảng Gateway công nghiệp kết nối dữ liệu đa tầng giữa OT (phần cứng/PLC) và IT (hệ thống quản lý, giám sát, cloud).
+Phần lớn các giải pháp điều khiển, phần mềm máy và mã nguồn hệ thống thực tế được triển khai và bảo mật trong các **Private Repositories** của doanh nghiệp và đối tác.
 
 ---
 
-### Hai dự án nền tảng tâm huyết
+### Hai nền tảng trọng tâm
 
 #### 1. ACS - AGV Control System & Fleet Simulation
-Hệ sinh thái điều phối và mô phỏng đội xe tự hành AGV chuyên sâu:
-- **[ACS.Simulation](https://github.com/buiminhduc23011/ACS.Simulation):** Hệ thống mô phỏng bài toán điều phối, quy hoạch tuyến đường và giải quyết xung đột giao thông (traffic management) thời gian thực cho AGV/AMR.
-- **Công nghệ lõi:**
-  - `ACS.Geometry`: Thư viện toán hình học tính toán quỹ đạo, góc quay và tọa độ di chuyển.
-  - `ACS.Simulator.API`: Backend hiệu năng cao (.NET C#), tích hợp SignalR truyền dữ liệu telemetry hai chiều thời gian thực.
-  - `acs.simulator.web`: Giao diện giám sát web hiện đại (React, TypeScript, Ant Design, Zustand, Recharts, Virtual Joystick điều khiển trực tiếp).
-  - Kết hợp đồng bộ với phần mềm HMI trên xe (`sti-lift-agv-hmi`) và bộ cấu hình thông số (`sti-agv-config`).
+Hệ sinh thái điều phối, quy hoạch tuyến đường và mô phỏng giao thông cho đội xe tự hành AGV trong nhà máy thông minh:
+- **[ACS.Simulation](https://github.com/buiminhduc23011/ACS.Simulation):** Mô phỏng bài toán điều phối, tính toán quỹ đạo và giải quyết xung đột giao thông (traffic control) thời gian thực.
+- **Kiến trúc công nghệ:**
+  - `ACS.Geometry`: Thư viện toán hình học tính toán quỹ đạo, góc lái và tọa độ di chuyển.
+  - `ACS.Simulator.API`: Backend .NET C#, tích hợp SignalR truyền dữ liệu telemetry hai chiều thời gian thực.
+  - `acs.simulator.web`: Giao diện web giám sát (React, TypeScript, Ant Design, Zustand, Recharts, Virtual Joystick).
+  - Đồng bộ trọn gói với HMI trên xe (`sti-lift-agv-hmi`) và bộ cấu hình (`sti-agv-config`).
 
 #### 2. DBI - Data Bridge Industrial
 Nền tảng Gateway công nghiệp và cầu nối dữ liệu OT/IT: [https://dbivn.com/](https://dbivn.com/)
@@ -46,8 +44,8 @@ Nền tảng Gateway công nghiệp và cầu nối dữ liệu OT/IT: [https://
 ### Năng lực chuyên môn
 
 #### 1. Hệ thống AGV, Robot & Thị giác máy tính
-- Kiến trúc và thuật toán điều phối đội xe tự hành AGV (Traffic Control, Fleet Management, Dispatching).
-- Thiết kế phần mềm điều khiển, HMI và cấu hình cho xe tự hành AGV (Lifting AGV, Tugger AGV).
+- Thuật toán điều phối và quản lý đội xe tự hành AGV (Traffic Management, Fleet Control, Dispatching).
+- Phần mềm điều khiển, giao diện HMI và cấu hình tham số xe tự hành AGV (Lifting AGV, Tugger AGV).
 - Tích hợp hệ thống Machine Vision công nghiệp: Keyence CV-X Series, camera công nghiệp giao tiếp C# qua Ethernet.
 - Điều khiển cánh tay robot và truyền thông Modbus/TCP, CAN bus.
 
@@ -63,23 +61,7 @@ Nền tảng Gateway công nghiệp và cầu nối dữ liệu OT/IT: [https://
 
 ---
 
-### Dự án tiêu biểu
-
-| Dự án | Công nghệ | Mô tả tóm tắt |
-|---|---|---|
-| [ACS.Simulation](https://github.com/buiminhduc23011/ACS.Simulation) | .NET, React, TS, SignalR | Hệ thống mô phỏng, điều phối giao thông và quy hoạch tuyến đường cho đội xe AGV/AMR |
-| [DBI Ecosystem](https://dbivn.com/) | C#, IIoT, Gateway, OPC UA | Nền tảng Gateway công nghiệp kết nối PLC đa hãng, SoftPLC và phân phối dữ liệu OT/IT |
-| [MC-Cut-Via](https://github.com/buiminhduc23011/MC-Cut-Via) | Siemens S7-1200, C# | Phần mềm điều khiển máy tự động cắt rotor nội suy công nghiệp |
-| [STI AGV Config & HMI](https://github.com/buiminhduc23011/sti-lift-agv-hmi) | WPF, C#, AGV, Modbus | Giao diện điều khiển HMI và phần mềm cấu hình cho xe tự hành AGV nâng hàng |
-| [Keyence CV-X Comm](https://github.com/buiminhduc23011/keyence-cvx-ethernet-communication) | C#, Keyence, Vision | Thư viện C# kết nối Ethernet và điều khiển hệ thống Machine Vision Keyence CV-X |
-| [Rotating-Warehouse](https://github.com/buiminhduc23011/Rotating-Warehouse) | PLC, SCADA, Warehouse | Hệ thống quản lý và điều khiển kho hàng thông minh dạng xoay vòng |
-| [OCPP 1.6J Charge Simulator](https://github.com/buiminhduc23011/fake-charge-ocpp-protocol1.6J) | IoT, OCPP, EV Charger | Mô phỏng và tích hợp giao thức sạc xe điện chuẩn quốc tế OCPP 1.6J |
-
-Xem thêm danh sách đầy đủ tại **[Repositories](https://github.com/buiminhduc23011?tab=repositories)**.
-
----
-
-### GitHub Stats
+### GitHub Activity & Contributions
 
 <p align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=buiminhduc23011&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
